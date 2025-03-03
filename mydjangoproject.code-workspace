@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../.vscode/.venv"
+		},
+		{
+			"path": "../.vscode/myproject"
+		}
+	],
+	"settings": {}
+}
